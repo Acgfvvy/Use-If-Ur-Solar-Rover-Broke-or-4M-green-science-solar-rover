@@ -1,5 +1,6 @@
 {
     "name": "Use if ur Solar Rover broke (4M Green Science Solar Rover)",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
